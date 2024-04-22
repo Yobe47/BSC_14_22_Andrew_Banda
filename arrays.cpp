@@ -5,7 +5,7 @@ using namespace std ;
 
 int main(){
 
-//Declaring and initializing  the string array
+//Declaring and initializing  the string array to store the stated strings
  std::string reg[] = { "B123","A345","B177","C234","C15","G3003","C235","B179"} ;
 
  // finding length of reg[]
