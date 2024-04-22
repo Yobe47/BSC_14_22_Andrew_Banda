@@ -6,7 +6,7 @@ int main(){
 
 int enteredInteger ; // int number entered by user
 
-// Checking the range of  number entered by user if it is btwn 5-10
+// Checking the range of  number entered by user if it is between 5-10
 while (true){
 
  // Enter integer
